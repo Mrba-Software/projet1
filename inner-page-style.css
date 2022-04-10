@@ -1,0 +1,749 @@
+/*================================
+	Font Size
+==================================*/
+
+/*font size of 12px*/
+
+.comment-form input[type="text"],
+.submit-testimonials,
+.comment-form input[type="email"]
+{
+	font-size: 1.2rem;
+}
+
+/*font size of 14px*/span
+
+.course-listing-page .button-group button,
+.gallery-section .button-group button,
+.gallery-section2 .button-group button,
+.learn-courses .box-body p, 
+.course-listing-page .grid-item .box-body p,
+.recent-course-single .grid-item .box-body p,
+.details p,
+.details h5,
+.news-detail h2,
+.news-detail p,
+.footer-first-section .box-wrap p,
+.footer-first-section .box-wrap h4,
+.footer-first-section .box-wrap ul li a,
+.footer-first-section .recent-course-wrap .course-name p,
+.footer-first-section .quick-contact input,
+.footer-first-section .quick-contact textarea,
+.footer-first-section .quick-contact button, 
+.grid-box-wrap .grid-body h4,
+.page-content .post-content p,
+.page-content .courses-wrap span,
+.page-content .page-article a,
+.team-members .developer-wrap p,
+.course-detail .course-box p,
+#course-page aside .reserve-course input[type="text"],
+aside .reserve-course input[type="email"],
+.testimonial-page aside .submit-testimonials input[type="text"],
+.testimonial-page aside .submit-testimonials input[type="email"],
+#course-page aside .reserve-course textarea,
+.testimonial-page aside .submit-testimonials textarea,
+.testimonial-page .submit-testimonials form .custom-file-upload,
+.row .rewiew-content p,
+.top-header .container,
+.testimonial-holder,
+.post-content span a svg,
+.developer-wrap li a svg,
+.submit-testimonials form span p,
+figcaption h4
+{
+	font-size: 1.4rem;
+    text-align: left;
+}
+
+/*Font size of 15px*/
+
+.row .rewiew-content footer h4,
+.row .rewiew-content footer h4::before,
+.row .rewiew-content footer h4::after,
+{
+	font-size: 1.5rem;
+    text-align: center;
+}
+
+/*Font size of 16px*/
+
+.whyus-wrap p,
+.footer-first-section .recent-course-wrap .course-name h3,
+.footer-last-section .container p,
+.grid-box-wrap .grid-body p,
+.grid-box-wrap .grid-body a,
+.page-content .container aside .news-letter p,
+.page-content .container aside .news-letter input[type="email"],
+.page-content .container aside .news-letter a,
+.page-content .post-content h3,
+.contact-page-section .people-info-wrap p,
+.contact-page-section .people-info-wrap form .input-,
+.people-info-wrap form input[type="submit"],
+.about-upper-section .who-we-are p,
+.about-upper-section .our-story a,
+.course-detail .course-box h3,
+.course-detail .course-box button,
+.course-detail p,
+.course-objective li,
+.con,
+.contact-list li span
+{
+	font-size: 1.6rem;
+    text-align: center;
+}
+
+/*font size of 18px*/
+
+.nav-menu a,
+.comment-form,
+.comment-form p,
+.learn-courses .learn-desining-banner,
+.course-listing-page .grid-item .learn-desining-banner-course,
+.recent-course-single .grid-item .learn-desining-banner-course,
+.featured-points li,
+.read-more-btn,
+.details h3,
+.news-detail h1,
+.footer-first-section .box-wrap header h1,
+.page-content .courses-wrap p,
+.page-content .page-article p,
+.page-content .share-section span,
+.button-section .button, .customer-review .button,
+.team-members .developer-wrap h3,
+.row .rewiew-content header h3,
+.row .rewiew-content header p,
+.footer-second-section .social-list li a svg,
+.contact-list li svg,
+figcaption h3 
+{
+	font-size: 1.8rem;
+    text-align: center;
+}
+
+/*font size of 20px*/
+
+.banner .container h3,
+.form,
+.grid-box-wrap .grid-body h1,
+.page-content .container aside .recent-post h2,
+.navigation.pagination .page-numbers,
+.contact-page-section .contact-social li a,
+#course-page .reserve-course h2,
+.testimonial-page aside .submit-testimonials h2,
+#course-page aside .reserve-course input[type="submit"],
+.testimonial-page aside .submit-testimonials input[type="submit"]
+{
+	font-size: 2rem;
+}
+
+
+/*Font size of 24px*/
+.query-section .container p,
+.page-content .container aside .news-letter h2,
+.page-content .follow-us h2,
+.page-content .follow-us a,
+.page-content .share-section span a,
+.page-content .categories-block h2,
+.comments-title,
+.comment-form h2,
+.comment,
+.course-detail h3
+{
+	font-size: 2.4rem;
+}
+
+/*font size of 25px*/
+
+.featured-points ul svg,
+.about-upper-section .our-story svg
+{
+	font-size: 2.5rem;
+}
+
+/*font size of 27px*/
+
+/*Font Size Of 30px*/
+
+.container h2,
+.whyus-wrap h1,
+.wrap-others-say h1,
+.contact-page-section .people-info-wrap h2,
+.contact-page-section .contact-info h2,
+.top-heading,
+#course-page .course-detail h2,
+.recent-course-single h2
+{
+	font-size: 3rem;
+}
+
+.page-heading 
+{
+	font-size: 3rem;
+}
+
+/*Font Size of 40px*/
+
+.banner .container h1,
+.banner .owl-nav .owl-prev, 
+.banner .owl-nav .owl-next,
+.page-content .page-article h1
+{
+	font-size: 4rem;
+}
+
+/*================================
+	Font Family
+==================================*/
+
+.top-header a,
+.nav-menu a,
+.banner .container,
+.page-heading .container h2,
+.course-listing-page .button-group button,
+.gallery-section .button-group button,
+.gallery-section2 .button-group button,
+.learn-courses .learn-desining-banner,
+.course-listing-page .grid-item .learn-desining-banner-course,
+.recent-course-single .grid-item .learn-desining-banner-course,
+.learn-courses .box-body p, 
+.course-listing-page .grid-item .box-body p,
+.recent-course-single .grid-item .box-body p,
+.learn-courses .box-body section p,
+.featured-points li,
+.whyus-wrap h1,
+.whyus-wrap p,
+.read-more-btn,
+.details h3,
+.details p,
+.wrap-others-say h1,
+.news-detail h1,
+.news-detail h2,
+.news-detail p,
+.query-section .container p,
+.footer-first-section .box-wrap header h1,
+.footer-first-section .box-wrap p,
+.footer-first-section .box-wrap h4 a,
+.footer-first-section .box-wrap ul li a,
+.footer-first-section .recent-course-wrap,
+.footer-last-section .container p,
+.grid-box-wrap .grid-body h4,
+.grid-box-wrap .grid-body h1,
+.grid-box-wrap .grid-body p,
+.grid-box-wrap .grid-body a,
+.page-content .container aside, 
+.testimonial-page .container aside,
+.navigation.pagination .page-numbers,
+.page-content .page-article,
+.comment-section,
+.comment-form,
+.button-section .button, 
+.customer-review .button,
+.contact-page-section,
+.about-upper-section,
+.team-members .container,
+#course-page,
+.course-detail .course-box button,
+#course-page aside .reserve-course input, 
+#course-page aside .reserve-course textarea,
+.testimonial-page aside .submit-testimonials input,
+.testimonial-page aside .submit-testimonials textarea,
+.recent-course-single h2,
+.testimonial-page .container,
+.customer-review .row .rewiew-content
+{
+	font-family: 'Raleway', sans-serif;
+}
+
+/*================================
+	Color
+==================================*/
+
+/*====Black Text Color==========*/
+
+.page-heading .container h2,
+.button-group button,
+.gallery-section .button-group button,
+.gallery-section2 .button-group button,
+.query-section .container p,
+.footer-first-section .quick-contact button,
+.grid-box-wrap .grid-body h1,
+.page-content .container aside .recent-post h2,
+.page-content .follow-us,
+.page-content .follow-us a,
+.page-content .page-article h1,
+.page-content .share-section span a,
+.page-content .categories-block h2,
+.comments-title,
+.comment-form h2,
+.contact-page-section .people-info-wrap h2,
+.contact-page-section .contact-info h2,
+.contact-page-section .contact-list li svg,
+.contact-page-section .contact-social li a,
+.top-heading,
+.team-members .developer-wrap h3,
+.team-members .developer-wrap ul svg,
+#course-page .course-detail h2,
+.course-detail h3,
+.recent-course-single h2,
+.row .rewiew-content header h3,
+figcaption h4   
+{
+	color: #000;
+}
+
+
+
+/*====White Text Color==========*/
+.top-header .container a,
+.course-listing-page .grid-item .box-body p span,
+.banner .container,
+.banner .owl-nav .owl-prev, 
+.banner .owl-nav .owl-next,
+.learn-courses .learn-desining-banner,
+.whyUs-section,
+.whyUs-section .whyus-wrap a,
+.read-more-btn,
+.page-footer,
+.footer-first-section .box-wrap a,
+.footer-first-section .box-wrap ul li a,
+.footer-first-section .quick-contact input,
+.footer-first-section .quick-contact textarea,
+.page-footer .footer-second-section .social-list li a,
+.footer-last-section .container p a,
+.page-content .container aside .news-letter a,
+.page-content .courses-wrap span,
+.page-content .courses-wrap p,
+.reply a,
+.comment-form input[type="submit"],
+.button-section .button, 
+.customer-review .button,
+.people-info-wrap form input[type="submit"],
+.course-detail .course-box button,
+#course-page aside .reserve-course input[type="submit"],
+.testimonial-page aside .submit-testimonials input[type="submit"]
+{
+	color: #fff;
+}
+
+/*======White Background Color========*/
+.sub-menu,
+.nav-menu .sub-menu .sub-menu-g,
+.whyus-wrap h1::after,
+.event-wrap .details,
+.what-other-say .wrap-others-say,
+.news-detail,
+.footer-first-section .quick-contact button,
+.page-content .post-wrap .post-content,
+.page-content .follow-us,
+.page-content .latest-course,
+.testimonial-page .submit-testimonials form .custom-file-upload 
+{
+	background: #fff;
+}
+
+
+/*======Dark BLue Color For BackGround============*/
+
+.top-header,
+.form input[type="submit"],
+.course-listing-page .grid-item .learn-desining-banner-course, 
+.recent-course-single .grid-item .learn-desining-banner-course,
+.button-section .button, .customer-review .button,
+.course-detail .course-box button,
+#course-page aside .reserve-course input[type="submit"],
+.testimonial-page aside .submit-testimonials input[type="submit"]
+{
+	background: #2a4f81;
+}
+
+/*======Dark BLue Color For Text============*/
+
+.details h3,
+.news-detail h1,
+.query-section .container p a,
+.row .rewiew-content p,
+.page-content .share-section span,
+.page-content .post-content h3,
+.course-detail .course-box i,
+.course-detail .course-box h3,
+.con,
+figcaption h3,
+.btn
+{
+	color: #e3e8ee;
+}
+
+
+/*==========================================*/
+.learn-courses .box-body p, 
+.btn_in,
+.course-listing-page .grid-item .box-body p,
+.recent-course-single .grid-item .box-body p,
+.grid-box-wrap .grid-body h4,
+.grid-box-wrap .grid-body p,
+.page-content .container aside .news-letter p,
+.contact-page-section .people-info-wrap p
+{
+	color: #f8fbfc;
+}
+
+/*===========================================*/
+.about-upper-section .who-we-are p,
+.about-upper-section .our-story a,
+.about-upper-section .our-story p
+{
+	color: #59616d;
+}
+
+/*===========================================*/
+.course-detail p,
+.course-objective li
+{
+	color: #0c1213;
+}
+
+/*===========================================*/
+.learn-courses .owl-carousel .owl-nav, 
+.latest-news .owl-carousel .owl-nav
+{
+	color:  #1b0f0f;
+}
+
+/*===========================================*/
+.news-detail h2,
+.news-detail p,
+.course-listing-page .grid-item .learn-desining-banner-course,
+.recent-course-single .grid-item .learn-desining-banner-course,
+.details p
+{
+	color: #130a0a;
+}
+
+/*=============================================*/
+.grid-box-wrap .grid-body a
+{
+	color: #0cfa40;
+}
+/*===========================================*/
+.page-content .container aside .news-letter a,
+.page-content .courses-wrap span
+{
+	background: #1c456b; 
+}
+
+/*===============================================*/
+.about-upper-section .our-story svg,
+.team-members .developer-wrap p
+
+{
+	color: #1f4271;
+}
+box-body
+
+/*==========================================*/
+
+.learn-courses .learn-desining-banner,
+.course-listing-page .grid-item .box-body p span,
+.course-listing-page .grid-item .learn-desining-banner-course,
+.recent-course-single .grid-item .learn-desining-banner-course,
+.navigation.pagination .page-numbers.current,
+.navigation.pagination .page-numbers,
+.navigation.pagination .page-numbers:hover,
+.customer-review .button,
+.btn_in,
+.grid-body,
+.navigation.pagination .btn.current,
+.learn-desining-banner
+{
+	background: #17f774;
+}
+
+/*=================================================*/
+
+.page-content .container aside .news-letter,
+#course-page aside .reserve-course,
+.testimonial-page aside .submit-testimonials,
+.query-section.comment-form,
+.con,
+.btn
+{
+	background: #23436e;
+}
+
+/*=================================================*/
+
+[dir] .s2-footer .footer-legal {
+    text-align: center;
+    padding: 1rem 0.5rem 3rem;
+    background-color: #332270;
+}
+
+.fond1
+{
+	background: #63a2f5;
+}
+.row .rewiew-content footer h4
+{
+	color: #70256c;
+}
+
+                     /* ME/css/<bouton>*/
+/*==============================================*/
+
+.text-sm {
+    font-size: .875rem;
+    line-height: 1.25rem;
+}
+
+.py-2 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+.px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.rounded-full {
+    border-radius: 9999px;
+}
+.items-center {
+    align-items: center;
+}
+.select-none {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+.h-full {
+    height: 100%;
+}
+.flex {
+    display: flex;
+}
+[type=button], [type=reset], [type=submit], button {
+    -webkit-appearance: button;
+}
+button, input, optgroup, select, textarea {
+    padding: 0;
+    line-height: inherit;
+    color: inherit;
+}
+
+[role=button], button {
+    cursor: pointer;
+}
+button {
+    background-color: transparent;
+    background-image: none;
+}
+button, select {
+    text-transform: none;
+}
+button, input, optgroup, select, textarea {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+}
+
+*, :after, :before {
+    --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgba(59,130,246,0.5);
+    --tw-ring-offset-shadow: 0 0 #0000;
+    --tw-ring-shadow: 0 0 #0000;
+}
+
+*, :after, :before {
+    --tw-shadow: 0 0 #0000;
+}
+
+* {
+    scrollbar-color: auto;
+    scrollbar-width: auto;
+}
+*, :after, :before {
+    --tw-border-opacity: 1;
+    border-color: rgba(229,231,235,var(--tw-border-opacity));
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid;
+}
+feuille de style user-agent
+button {
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    text-rendering: auto;
+    color: buttontext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    margin: 0em;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+.text-grey-black {
+    --tw-text-opacity: 1;
+    color: rgba(57,57,57,var(--tw-text-opacity));
+}
+
+.bg-white {
+    --tw-bg-opacity: 1;
+    background-color: rgba(255,255,255,var(--tw-bg-opacity));
+}
+
+.border-black {
+    --tw-border-opacity: 1;
+    border-color: rgba(0,0,0,var(--tw-border-opacity));
+}
+
+.bg-light-grey-2 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(235,235,237,var(--tw-bg-opacity));
+}
+
+body {
+    font-family: inherit;
+    line-height: inherit;
+}
+
+body {
+    margin: 0;
+    font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+}
+
+:root {
+    --layout-top-height-desktop: 13.8rem;
+    --layout-right-width-desktop: 30rem;
+}
+
+html {
+    font-family: Arial,sans-serif;
+    line-height: 1.5;
+}
+
+html {
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+
+*, :after, :before {
+    --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgba(59,130,246,0.5);
+    --tw-ring-offset-shadow: 0 0 #0000;
+    --tw-ring-shadow: 0 0 #0000;
+}
+
+*, :after, :before {
+    --tw-shadow: 0 0 #0000;
+}
+
+*, :after, :before {
+    --tw-border-opacity: 1;
+    border-color: rgba(229,231,235,var(--tw-border-opacity));
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid;
+}
+*, :after, :before {
+    --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgba(59,130,246,0.5);
+    --tw-ring-offset-shadow: 0 0 #0000;
+    --tw-ring-shadow: 0 0 #0000;
+}
+
+*, :after, :before {
+    --tw-shadow: 0 0 #0000;
+}
+
+*, :after, :before {
+    --tw-border-opacity: 1;
+    border-color: rgba(229,231,235,var(--tw-border-opacity));
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid;
+}
+
+               /* CSS/imprimante */
+/*=========================================*/
+
+a {
+    color: #0070a8;
+    text-decoration: none;
+}
+feuille de style user-agent
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+#page-mod-book-print {
+    color: #000;
+    background-color: #fff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1em;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.dir-ltr, .mdl-left, .dir-rtl .mdl-right {
+    text-align: left;
+}
+html, body, p, ul, ol, dl, input, textarea {
+    font-family: sans-serif;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #FFF;
+    background-size: 100% auto;
+    color: #444;
+    font-size: 95%;
+}
+body {
+    margin: 0;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333;
+    background-color: #fff;
+}
